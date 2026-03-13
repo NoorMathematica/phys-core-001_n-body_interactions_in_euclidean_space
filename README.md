@@ -20,7 +20,7 @@ Or use the BibTeX Citation:
   title = {A Novel Statistical, Computational, and Philosophical Solution to Determine Interactions Between n Bodies in Euclidean Space},
   journal = {Noor Research Collective Archive},
   year = {2025},
-  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-001_n-body_interactions_in_euclidean_space/refs/heads/main/determining_interactions_between_n_bodies_in_euclidean_space.md},
+  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-001_n-body_interactions_in_euclidean_space/refs/heads/main/phys-core-001_determining_interactions_between_n_bodies_in_euclidean_space.md},
 }
 ```
 
