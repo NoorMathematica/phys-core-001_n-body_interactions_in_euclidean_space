@@ -3,6 +3,27 @@
 Abstract
 We present a computational framework for analyzing chaotic n-body systems that reframes recursive dependency not as a computational obstacle, but as a structural foundation. In contrast to globally simultaneous integration schemes, we introduce a serial traversal model in which each body is resolved in local relational sequence. This shift breaks the cycle of mutual dependency by embedding it in directed paths, yielding a probability gradient across configuration space rather than a single deterministic trajectory. The result is not a prediction of specific outcomes, but the emergence of dynamically coherent regions through recursive sampling. We demonstrate this approach on the three-body problem, drawing parallels to cellular automata and interference-driven systems, and show that path-wise resolution offers a stable, probabilistic mapping of otherwise intractable behavior.
 
+### Citation
+
+Please cite this work as:  
+
+```
+"Lina Noor - Noor Research Collective, "A Novel Statistical, Computational, and Philosophical Solution to Determine Interactions Between n Bodies in Euclidean Space",
+Noor Research Collective Archive, 2025.
+```
+
+Or use the BibTeX Citation:  
+
+```
+@article{noor2025nbodywalker,
+  author = {Lina Noor - Noor Research Collective},
+  title = {A Novel Statistical, Computational, and Philosophical Solution to Determine Interactions Between n Bodies in Euclidean Space},
+  journal = {Noor Research Collective Archive},
+  year = {2025},
+  note = {https://raw.githubusercontent.com/LinaNoor-AGI/noor-research/refs/heads/main/Archive/A%20Novel%20Statistical%20Computational%2C%20and%20Philosophical%20Solution%20to%20Determine%20Interactions%20Between%20n%20Bodies%20in%20Euclidean%20Space.md},
+}
+```
+
 ---
 
 XREF of work and references avalible [here](https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json)  
